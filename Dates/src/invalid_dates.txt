@@ -1,0 +1,53 @@
+dd.mm.yy
+dd,mm,yy
+ddmmyy
+
+ dd mm yy
+dd mm yy 
+dd  mm yy
+dd mm  yy
+
+-dd-mm-yy
+dd-mm-yy-
+dd--mm-yy
+dd-mm--yy
+
+/dd/mm/yy
+dd/mm/yy/
+dd//mm/yy
+dd/mm//yy
+
+dd mm yyyy
+dd mm 2
+dd mm 200
+dd mm 20000
+dd mm -1
+dd mm 1752
+dd mm 3001
+
+dd mm 2000
+dd 001 2000
+dd 0 2000
+dd 13 2000
+dd January 2000
+dd jAN 2000
+dd jaN 2000
+dd JAn 2000
+dd jAn 2000
+dd JaN 2000
+
+1st Jan 2000
+001 Jan 2000
+0 Jan 2000
+32 Jan 2000
+29 Feb 1900
+
+
+
+
+
+
+
+
+
+
