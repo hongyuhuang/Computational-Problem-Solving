@@ -1,1 +1,1 @@
-# Computational-Problem-Solving
+# Computational Problem Solving
