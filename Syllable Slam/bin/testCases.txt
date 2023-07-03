@@ -1,0 +1,59 @@
+// One Syllable words
+// Two letters
+
+On
+Up
+Go
+No
+Be
+By
+Do
+To
+Me
+Us
+
+// 3 letters
+
+Dad
+Mom
+Sad
+Joy
+Hot
+Wet
+Dry
+Old
+New
+Big
+
+// 4 letters
+
+Love
+Hate
+Tree
+Ball
+Fish
+Milk
+Wind
+Snow
+Gold
+Iron
+
+// 5 letters
+
+Bread
+Brush
+Chair
+Clock
+Cloud
+Drink
+Fruit
+Ghost
+Grass
+House
+Knife
+Light
+Mouse
+Plant
+Sheep
+
+// Two Syllable words
