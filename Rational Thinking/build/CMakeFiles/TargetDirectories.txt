@@ -1,0 +1,3 @@
+/Users/hongyuhuang/Documents/COSC326/Rational Thinking/build/CMakeFiles/RationalThinking.dir
+/Users/hongyuhuang/Documents/COSC326/Rational Thinking/build/CMakeFiles/edit_cache.dir
+/Users/hongyuhuang/Documents/COSC326/Rational Thinking/build/CMakeFiles/rebuild_cache.dir
