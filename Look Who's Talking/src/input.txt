@@ -1,0 +1,10 @@
+We (3 excl) are going
+We (2 excl) are going
+We (3 incl) are going
+We (2 incl) are going
+I am going
+They (2 excl) are reading 
+You (2 incl) are reading 
+I went
+I will go
+gibberish
